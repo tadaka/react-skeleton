@@ -20851,6 +20851,6 @@ var React = require('react');
 var ReactDOM = require('react-dom');
 var List = require('./components/List.jsx');
 
-ReactDom.render(React.createElement(List, null), document.getElementById('ingredients'));
+ReactDOM.render(React.createElement(List, null), document.getElementById('ingredients'));
 
 },{"./components/List.jsx":182,"react":181,"react-dom":30}]},{},[184]);
